@@ -1,0 +1,10 @@
+
+
+ ======= Binary Seacrh Tree Statistics =======
+
+
+Size     : 853
+Hieght   : 852
+Balanced : 0.0
+Insertion Time : 0.00822093seconds
+

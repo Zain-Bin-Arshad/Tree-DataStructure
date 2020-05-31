@@ -1,0 +1,9 @@
+
+ ======= AVLTree Statistics =======
+
+
+Size     :  853
+Height   :  9
+Balanced :  80.18757%
+Insertion Time : 0.0052248seconds
+
