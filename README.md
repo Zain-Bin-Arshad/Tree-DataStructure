@@ -1,4 +1,4 @@
-# Tree-DataStructure-Comparision
+# Tree-DataStructure-Comparison
 You have learned about **Tree data structure**. Now, you will be guessing that there are various tree available, what is the benefit of one on other, which tree is fast on the given data set. Well, this project will answer all of your confusions. We will be talking about the three famous trees:
 
 1. Binary Search Tree (BST)
